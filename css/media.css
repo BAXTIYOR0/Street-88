@@ -1,0 +1,816 @@
+/* @media(max-width:1920px){} */
+@media(max-width:1680px) {
+    .header__title {
+        font-size: 68px;
+    }
+}
+
+@media(max-width:1600px) {}
+
+@media(max-width:1536px) {
+    .nav__list {
+        gap: 15px;
+    }
+
+    .nav__list2 {
+        gap: 9px;
+    }
+}
+
+@media(max-width:1440px) {
+    .header_middle-img {
+        font-size: 25px;
+        line-height: 22px;
+        padding: 9px 12px;
+    }
+
+    .nav__link1 {
+        font-size: 13px;
+        line-height: 14px;
+        padding: 13px 10px;
+    }
+
+    .nav__link {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .header__title {
+        font-size: 62px;
+    }
+
+    .header__text {
+        font-size: 16px;
+    }
+
+    .default__btn {
+        font-size: 44px;
+        line-height: 25px;
+        padding: 27px 70px;
+    }
+
+    .default__btn2 {
+        font-size: 17px;
+        line-height: 21px;
+        width: 237px;
+        height: 48px;
+    }
+
+    .nav__link3 {
+        font-size: 16px;
+        line-height: 18px;
+        padding-bottom: 14px;
+    }
+
+    .gaburger__title {
+        font-size: 17px;
+    }
+
+    .gaburger__text {
+        font-size: 16px;
+    }
+
+    .gaburger__text {
+        max-width: 340px;
+    }
+
+    .almost__title {
+        font-size: 48px;
+        line-height: 44px;
+        padding: 14px;
+    }
+}
+
+@media(max-width:1367px) {
+    .almost__title {
+        font-size: 44px;
+        line-height: 40px;
+        padding: 12px;
+    }
+
+    .aloud_middle-img2 {
+        font-size: 29px;
+        line-height: 25px;
+        padding: 8px 15px;
+    }
+
+    .telefon {
+        font-size: 17px;
+    }
+
+    .nav__link5 {
+        font-size: 18px;
+    }
+
+
+}
+
+@media(max-width:1280px) {}
+
+@media(max-width:1080px) {
+
+    .header_middle-img {
+        font-size: 22px;
+        line-height: 22px;
+        padding: 8px 12px;
+    }
+
+    .header__logo>span {
+        font-size: 11px;
+    }
+
+    .header__title {
+        font-size: 55px;
+    }
+
+    .header__title2 {
+        font-size: 30px;
+    }
+
+    .nav__link3 {
+        font-size: 13px;
+    }
+
+    .almost__title {
+        font-size: 39px;
+    }
+
+    .nav__link5 {
+        font-size: 14px;
+    }
+
+    .aloud__bottom-text {
+        font-size: 14px;
+        line-height: 24px;
+    }
+}
+
+@media(max-width:1024px) {}
+
+@media(max-width:992px) {
+    .nav__link {
+        font-size: 13px;
+    }
+
+    .nav__link1 {
+        font-size: 11px;
+        line-height: 7px;
+        padding: 14px 12px;
+    }
+
+    .header_middle-img {
+        font-size: 19px;
+        line-height: 23px;
+    }
+
+    .header__title {
+        font-size: 52px;
+    }
+
+    .default__btn {
+        font-size: 37px;
+        line-height: 20px;
+        padding: 23px 55px;
+    }
+
+    .default__btn2 {
+        font-size: 15px;
+        width: 213px;
+        height: 41px;
+    }
+
+    .gaburger__title {
+        font-size: 15px;
+    }
+
+    .gaburger__text {
+        font-size: 14px;
+    }
+
+}
+
+@media(max-width:991px) {}
+
+@media(max-width:800px) {
+    .aloud_middle-img2 {
+        font-size: 26px;
+        line-height: 21px;
+        padding: 8px 13px;
+    }
+
+    .telefon {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:768px) {
+    .header_middle-img {
+        font-size: 17px;
+        line-height: 19px;
+    }
+
+    .header__title {
+        font-size: 49px;
+    }
+
+    .header__title2 {
+        font-size: 27px;
+    }
+
+    .header__text {
+        font-size: 14px;
+    }
+
+    .gaburger {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+    }
+}
+
+@media(max-width:767px) {}
+
+@media(max-width:736px) {
+    .default__btn {
+        font-size: 31px;
+        line-height: 13px;
+        padding: 23px 52px;
+    }
+
+    .default__btn2 {
+        font-size: 14px;
+        width: 196px;
+        height: 38px;
+    }
+}
+
+@media(max-width:734px) {}
+
+@media(max-width:684px) {
+    .gaburger1 {
+        max-width: 290px;
+        height: 495px;
+    }
+
+    .gamburger__pomosh {
+        width: 290px;
+        height: 267px;
+        transition: .3s;
+    }
+
+    .header__logo>span {
+        font-size: 10px;
+    }
+
+    .nav__link {
+        font-size: 12px;
+    }
+
+    .header_middle-img {
+        line-height: 15px;
+    }
+
+    .header__text {
+        font-size: 13px;
+    }
+
+    .nav__link3 {
+        font-size: 11px;
+    }
+
+    .gaburger {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+    }
+}
+
+@media(max-width:667px) {
+    .gaburger__text {
+        font-size: 12px;
+    }
+
+    .gaburger {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+    }
+
+    .aloud__inner {
+        height: 200px;
+    }
+
+    .aloud__middle {
+        margin-top: 62px;
+    }
+
+    .gaburger1 {
+        max-width: 280px;
+        height: 485px;
+    }
+
+    .gamburger__pomosh {
+        width: 250px;
+        height: 255px;
+        transition: .3s;
+    }
+}
+
+@media(max-width:640px) {
+    .nav__list2 {
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 999;
+        bottom: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: rgba(8, 8, 8, 0.9);
+        padding-top: 20%;
+        width: 50%;
+        transform: translateX(-100%);
+        transition: .5s;
+    }
+    .nav__link1 {
+        font-size: 17px;
+        line-height: 19px;
+        opacity: 0.8;
+    }    
+    .nav__link1:hover {
+        color: #00fa4b;
+        background-color: transparent;
+    }
+    .menu{
+        display: flex;
+    }
+}
+
+@media(max-width:600px) {
+    .nav__list2 {
+        gap: 4px;
+    }
+
+    .nav__link1 {
+        padding: 13px 10px;
+    }
+
+    .header__title {
+        font-size: 45px;
+    }
+
+    .header__title2 {
+        font-size: 25px;
+        line-height: 4px;
+    }
+
+    .gaburger1 {
+        max-width: 280px;
+        height: 475px;
+    }
+
+    .gamburger__pomosh {
+        width: 250px;
+        height: 235px;
+        transition: .3s;
+    }
+
+    .almost__title {
+        font-size: 32px;
+        padding: 7px;
+    }
+
+    .aloud_middle-img2 {
+        font-size: 23px;
+        line-height: 18px;
+        padding: 8px 11px;
+    }
+
+    .telefon {
+        font-size: 12px;
+    }
+
+    .nav__link5 {
+        font-size: 13px;
+    }
+
+    .aloud__bottom-text {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .aloud__inner {
+        height: 198px;
+    }
+
+    .aloud__middle {
+        margin-top: 49px;
+    }
+}
+
+@media(max-width:575px) {
+    .header__text {
+        font-size: 11px;
+    }
+
+    .gaburger1 {
+        max-width: 260px;
+        height: 455px;
+    }
+
+    .gamburger__pomosh {
+        width: 230px;
+        height: 225px;
+        transition: .3s;
+    }
+
+    .almost__title {
+        font-size: 29px;
+        padding: 4px;
+    }
+
+    .aloud_middle-img2 {
+        font-size: 20px;
+        line-height: 14px;
+        padding: 8px 9px;
+    }
+
+   
+}
+
+@media(max-width:540px) {
+    .nav__link {
+        font-size: 11px;
+    }
+
+    .nav__link1 {
+        font-size: 10px;
+        line-height: 5px;
+        padding: 14px 12px;
+    }
+
+    .nav__link3 {
+        font-size: 10px;
+    }
+
+    .header_middle-img {
+        font-size: 13px;
+        line-height: 12px;
+    }
+
+    .header__title {
+        font-size: 38px;
+    }
+
+    .header__title2 {
+        font-size: 22px;
+        line-height: 0px;
+    }
+
+    .default__btn {
+        font-size: 24px;
+        line-height: 9px;
+        padding: 23px 44px;
+    }
+
+    .default__btn2 {
+        font-size: 11px;
+        width: 158px;
+        height: 35px;
+    }
+
+    .header__btns {
+        margin-top: 46px;
+    }
+
+    .header__botom {
+        height: 579px;
+    }
+
+    .gaburger1 {
+        max-width: 250px;
+        height: 435px;
+    }
+
+    .gamburger__pomosh {
+        width: 220px;
+        height: 205px;
+    }
+}
+
+@media(max-width:427px) {
+
+    .gamburger__pomosh>i {
+        font-size: 30px;
+    }
+
+    .nav__list3 {
+        gap: 20px;
+    }
+
+    .header__bottom-content {
+        padding-top: 135px;
+    }
+
+    .nav__link {
+        font-size: 9px;
+    }
+
+    .header__logo>span {
+        font-size: 8px;
+    }
+
+    .header__logo>img {
+        width: 15px;
+        height: 15px;
+    }
+
+    .header_middle-img {
+        font-size: 11px;
+        padding: 7px 9px;
+    }
+
+    .nav__link1 {
+        font-size: 8px;
+        line-height: 2px;
+        padding: 14px 7px;
+    }
+
+    .header__title {
+        font-size: 32px;
+    }
+
+    .header__title2 {
+        font-size: 20px;
+        line-height: 0px;
+    }
+
+    .header__text {
+        font-size: 9px;
+    }
+
+    .default__btn {
+        font-size: 19px;
+        line-height: 0px;
+        padding: 23px 39px;
+    }
+
+    .default__btn2 {
+        font-size: 10px;
+        width: 127px;
+        height: 33px;
+    }
+
+    .nav__link3 {
+        font-size: 9px;
+    }
+
+    .nav__list3 {
+        height: 33px;
+    }
+
+    .gaburger1 {
+        max-width: 165px;
+        height: 379px;
+    }
+
+    .gamburger__pomosh {
+        width: 135px;
+        height: 153px;
+    }
+
+    .almost__title {
+        font-size: 24px;
+        padding: 3px;
+    }
+
+    .gaburger__title {
+        font-size: 11px;
+    }
+
+    .gaburger__text {
+        font-size: 11px;
+    }
+
+    .aloud_middle-img2 {
+        font-size: 15px;
+        line-height: 8px;
+    }
+
+    .telefon {
+        font-size: 13px;
+    }
+
+    .nav__link5 {
+        font-size: 11px;
+    }
+
+    .aloud__bottom-text {
+        font-size: 10px;
+        line-height: 16px;
+    }
+
+    .aloud__inner {
+        height: 157px;
+    }
+}
+
+@media(max-width:414px) {}
+
+@media(max-width:412px) {}
+
+@media(max-width:384px) {
+    .nav__list {
+        gap: 10px;
+    }
+
+    .nav__list2 {
+        gap: 3px;
+    }
+
+    .nav__link1 {
+        font-size: 8px;
+        line-height: 2px;
+        padding: 14px 5px;
+    }
+
+    .nav__list3 {
+        gap: 20px;
+        ;
+    }
+
+    .gaburger1 {
+        max-width: 185px;
+        height: 309px;
+    }
+
+    .gamburger__pomosh {
+        width: 136px;
+        height: 81px;
+    }
+
+    .gaburger__title {
+        font-size: 9px;
+    }
+
+    .gaburger__text {
+        font-size: 10px;
+    }
+
+    .gamburger__pomosh>i {
+        font-size: 27px;
+    }
+}
+
+@media(max-width:375px) {}
+
+@media(max-width:360px) {
+    .gaburger1 {
+        max-width: 155px;
+        height: 307px;
+    }
+
+    .gamburger__pomosh {
+        width: 129px;
+    }
+
+    .telefon {
+        font-size: 12px;
+    }
+
+    .nav__link5 {
+        font-size: 10px;
+    }
+
+    .aloud__bottom-text {
+        font-size: 9px;
+        line-height: 14px;
+    }
+}
+
+@media(max-width:320px) {
+    .header__logo>span {
+        font-size: 7px;
+    }
+
+    .header__logo>img {
+        width: 13px;
+        height: 13px;
+    }
+
+    .nav__link {
+        font-size: 7px;
+    }
+
+    .header_middle-img {
+        font-size: 9px;
+    }
+
+    .nav__link1 {
+        font-size: 7px;
+        line-height: 0px;
+        padding: 14px 4px;
+    }
+
+    .header__title {
+        font-size: 24px;
+        line-height: 45px;
+    }
+
+    .header__title2 {
+        font-size: 16px;
+    }
+
+    .header__text {
+        font-size: 7px;
+        line-height: 14px;
+
+    }
+
+    .header__bottom-content {
+        padding-top: 93px;
+    }
+
+    .header__botom {
+        height: 389px;
+    }
+
+    .header__btns {
+        margin-top: -40px;
+    }
+
+    .default__btn {
+        font-size: 13px;
+        line-height: 0px;
+        padding: 13px 29px;
+    }
+
+    .default__btn2 {
+        font-size: 7px;
+        width: 83px;
+        height: 18px;
+    }
+
+    .nav__list3 {
+        gap: 13px;
+    }
+
+    .nav__link3 {
+        font-size: 7px;
+    }
+
+    .gaburger__text {
+        font-size: 7px;
+    }
+
+    .gaburger__title {
+        font-size: 8px;
+    }
+
+    .gaburger1 {
+        max-width: 131px;
+        height: 286px;
+    }
+
+    .gamburger__pomosh {
+        width: 101px;
+    }
+
+    .gamburger__pomosh>i {
+        font-size: 21px;
+    }
+
+    .almost__title {
+        font-size: 21px;
+        padding: 1px;
+    }
+
+    .aloud_middle-img2 {
+        font-size: 11px;
+        line-height: 3px;
+    }
+
+    .telefon {
+        font-size: 9px;
+    }
+
+    .nav__link5 {
+        font-size: 8px;
+    }
+
+    .nav__list4 {
+        gap: 16px;
+    }
+
+    .aloud__bottom {
+        height: 37px;
+        display: flex;
+        align-items: center;
+    }
+
+    .aloud__bottom-text {
+        font-size: 8px;
+        padding-top: 5px;
+    }
+
+    .aloud__inner {
+        height: 155px;
+    }
+}
